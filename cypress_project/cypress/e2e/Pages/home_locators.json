@@ -1,0 +1,9 @@
+{
+  "popup": "//button[contains(text(),'X')]",
+  "lakhok": "//body/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]/span[1]",
+  "nextPage": "//body/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/nav[1]/ul[1]/li[2]/a[1]",
+  "generalBooks": "//body/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+  "viewAnyBookDetails": "(//a[contains(text(),'হালাল মার্কেটিং')])[1]",
+  "order": "//body/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/button[2]",
+  "orderShoponnoKorun": "(//a[@title='checkout'])[1]"
+}

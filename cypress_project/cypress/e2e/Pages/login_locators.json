@@ -1,0 +1,7 @@
+{
+  "popup": "//button[contains(text(),'X')]",
+  "account": "//a[@title='আমার অ্যাকাউন্ট']",
+  "email": "//input[@id='username']",
+  "password": "//input[@id='password']",
+  "login": "//input[@name='login']"
+}

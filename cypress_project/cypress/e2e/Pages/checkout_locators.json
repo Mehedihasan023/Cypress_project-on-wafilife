@@ -1,0 +1,14 @@
+{
+  "popup": "//button[contains(text(),'X')]",
+  "checkbox": "//input[@id='createaccount']",
+  "password": "//input[@id='account_password']",
+  "name": "//input[@id='billing_first_name']",
+  "phoneNumber": "//input[@id='billing_phone']",
+  "email": "//input[@id='billing_email']",
+  "state": "//span[@id='select2-billing_state-container']",
+  "Dhaka": "/html[1]/body[1]/span[1]/span[1]/span[2]/ul[1]/li[13]",
+  "area": "(//select[@id='billing_area'])[1]",
+  "billingAddress": "//textarea[@id='billing_address_1']",
+  "orderComments": "//textarea[@id='order_comments']",
+  "total": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/table[1]/tfoot[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[4]/td[2]/strong[1]/span[1]/bdi[1]"
+}
